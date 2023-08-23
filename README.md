@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Dona Biswas</h1>
-<h3 align="center">A tech explorer, developer and programme.I have knowledge on DSA, frontend development, machine learning</h3>
+<h3 align="center">A tech explorer, developer and programmer.I have knowledge on DSA, frontend development, machine learning. I'm aspiring software engineer. Looking for opportunities tech.</h3>
 
 - 🔭 I’m currently working on **MERN stack**
 
@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphakitty54&show_icons=true&locale=en&layout=compact" alt="alphakitty54" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphakitty54&" alt="alphakitty54" /></p>
+
